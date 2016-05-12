@@ -1,0 +1,32 @@
+{
+  "name": "jasmine-firebase-reporter",
+  "version": "0.0.1",
+  "description": "A custom reoporter for Jasmine2/Protractor that sends test data to a firebase database",
+  "main": "index.js",
+  "keywords": [
+    "jasmine2",
+    "protractor",
+    "firebase",
+    "reporter",
+    "test",
+    "functional testing",
+    "end2end"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dllndv/jasmine-firebase-reporter.git"
+  },
+  "author": {
+    "name": "Dallen Richard Loder",
+    "email": "dllnldr@gmail.com",
+    "url": ""
+  },
+  "bugs": {
+    "url": "https://github.com/dllndv/jasmine-firebase-reporter/issues"
+  },
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/dllndv/jasmine-firebase-reporter",
+  "dependencies": {
+    "firebase": "^2.4.2"
+  }
+}
